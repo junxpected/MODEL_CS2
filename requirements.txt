@@ -1,0 +1,4 @@
+awpy==2.0.2
+polars
+xgboost
+scikit-learn

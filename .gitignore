@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Generated data and models
+demos/
+samples_cache/
+processed_demos.txt
+wp_model_final.json
+
+# OS and editor files
+.DS_Store
+.vscode/
+.idea/
